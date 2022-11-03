@@ -30,5 +30,5 @@ To create a Web page for marketing the products produced in agricultural field w
 
 
 
-# Result : Thus the Web page for marketing the products produced in agricultural field was created with gallery and tables using Expersion Web and the required output
-was obtained.
+# Result : 
+Thus the Web page for marketing the products in agricultural field were created with gallery and tables using Expression Web and the required output was obtained.
